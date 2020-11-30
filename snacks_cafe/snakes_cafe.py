@@ -13,9 +13,9 @@ def first_function_in_python():
     "Appetizers \n ----------- \n Wings \n Cookies \n Spring Rolls \n \n",
     "Entrees \n ----------- \n Salmon \n Steak \n Meat Tornado \n A Literal Garden \n \n",
     "Desserts \n ----------- \n Ice Cream \n Cake \n Pie \n \n",
-    "Drinks \n ----------- \n Coffee \n Tea \n Unicorn Tears \n \n"
+    "Drinks \n ----------- \n Coffee \n Tea \n Unicorn Tears \n"
     )
-    print("*********************************** \n ** What would you like to order? ** \n *********************************** \n \n")
+    print("*********************************** \n ** What would you like to order? ** \n *********************************** \n")
   
     
     my_meal = input('> ')
